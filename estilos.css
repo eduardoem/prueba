@@ -1,0 +1,23 @@
+/* Estoy probando colores y fuentes */
+
+h1 {
+    color:red;
+}
+
+p {
+    color: blue;
+    font-size: 16pt;
+}
+
+#primera {
+    color: green;
+}
+
+#segunda {
+    color: darkmagenta;
+}
+
+.encabezado {
+    font-size: 24pt;
+    text-transform: uppercase;
+}
